@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "oY+aZSOIwpV73oYTXUPcRZoJnQN9CV5mVVlHhEseLmRkFLbm8yHSZ/JC40QHFQmGGQMO2p3yH8k3/+ed2YrCXw==",
+  "success": true,
+  "projectFilePath": "/Users/yankovezin/Projects/CSharp_Lab11/Task2_Client/Task2_Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/yankovezin/.nuget/packages/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.10/microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.10/microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.2/microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/pomelo.entityframeworkcore.mysql/7.0.0/pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
+    "/Users/yankovezin/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
